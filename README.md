@@ -2,12 +2,17 @@
 
 ## Project setup
 ```
-npm install
+npm install``
 ```
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+```
+
+### Start json-server with test database
+```
+json-server db.js
 ```
 
 ### Compiles and minifies for production
